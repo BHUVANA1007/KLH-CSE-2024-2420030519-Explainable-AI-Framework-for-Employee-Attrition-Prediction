@@ -1,0 +1,45 @@
+Feature,SHAP_Value,Feature_Value,Absolute_SHAP
+YearsWithCurrManager,0.9003707,0,0.9003707
+StockOptionLevel,-0.621722,1,0.621722
+EnvironmentSatisfaction,-0.604312,4,0.604312
+EducationField_Life Sciences,-0.60008365,1,0.60008365
+MonthlyIncome,0.5792954,2033,0.5792954
+TotalWorkingYears,0.4457322,1,0.4457322
+DistanceFromHome,0.4342702,13,0.4342702
+JobSatisfaction,0.40796876,2,0.40796876
+Department_Research & Development,0.3843948,0,0.3843948
+OverTime_Yes,-0.37006414,0,0.37006414
+MaritalStatus_Married,-0.36356518,1,0.36356518
+Department_Sales,-0.3390713,1,0.3390713
+WorkLifeBalance,-0.3367158,3,0.3367158
+BusinessTravel_Travel_Rarely,0.30476823,0,0.30476823
+JobRole_Research Scientist,0.25406963,0,0.25406963
+Age,0.25143096,24,0.25143096
+YearsInCurrentRole,0.22553693,0,0.22553693
+JobLevel,0.21848223,1,0.21848223
+DailyRate,0.20696828,830,0.20696828
+EducationField_Medical,0.1777369,0,0.1777369
+JobInvolvement,-0.16543375,3,0.16543375
+TrainingTimesLastYear,0.12987131,2,0.12987131
+PercentSalaryHike,-0.100172326,13,0.100172326
+Education,0.0986205,2,0.0986205
+HourlyRate,-0.096910134,78,0.096910134
+Gender_Male,0.08119708,0,0.08119708
+RelationshipSatisfaction,-0.07406482,3,0.07406482
+JobRole_Laboratory Technician,0.06674612,0,0.06674612
+EducationField_Marketing,0.057758875,0,0.057758875
+JobRole_Sales Representative,-0.05029521,1,0.05029521
+EducationField_Technical Degree,0.049279466,0,0.049279466
+JobRole_Human Resources,0.044662736,0,0.044662736
+EducationField_Other,0.04081323,0,0.04081323
+YearsSinceLastPromotion,-0.0400729,0,0.0400729
+MonthlyRate,0.038075108,7103,0.038075108
+MaritalStatus_Single,0.031777244,0,0.031777244
+JobRole_Sales Executive,0.028123088,0,0.028123088
+PerformanceRating,0.020149598,3,0.020149598
+YearsAtCompany,-0.015915856,1,0.015915856
+BusinessTravel_Travel_Frequently,-0.015101299,0,0.015101299
+NumCompaniesWorked,0.010631268,1,0.010631268
+JobRole_Manufacturing Director,0.00918285,0,0.00918285
+JobRole_Manager,0.0062312447,0,0.0062312447
+JobRole_Research Director,0.0026135254,0,0.0026135254
