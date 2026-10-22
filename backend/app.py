@@ -268,7 +268,7 @@ def create_model_input(user_data):
     input_df = pd.get_dummies(
         input_df,
         columns=categorical_columns,
-        drop_first=True,
+        drop_first=False,
         dtype=int
     )
 
